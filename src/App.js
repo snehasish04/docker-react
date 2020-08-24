@@ -19,7 +19,7 @@ function App() {
           Learn React and play
         </a>
         <p className="App-body">
-          Is this how things work !!
+          Changed on the feature branch.
         </p>
       </header>
     </div>
